@@ -1,0 +1,6 @@
+
+{
+  "name": "RepoForge: Constructor Android en la Nube",
+  "description": "Una interfaz sofisticada para convertir repositorios de GitHub en APKs de Android utilizando un pipeline de construcción simulado y análisis con Gemini.",
+  "requestFramePermissions": []
+}
